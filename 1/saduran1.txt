@@ -7,4 +7,4 @@ Hasil Saya Menyadur :
 2. Ada tugas untuk menyadur tiap pertemuan dan ditaruh di github
 3. Absensi dinyatakan hadir ketika mahasiswa melaksankan tugas menyadur
 4. Membuat kelompok yang terdiri dari 3 orang mahasiswa/i
-5. Mengupload Screnshot dengan tujuan biar data tidak hilang
+5. Mengupload Screnshot jika diperlukan dengan tujuan untuk menjaga file supaya tidak hilang
