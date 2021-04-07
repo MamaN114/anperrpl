@@ -7,4 +7,6 @@ Hasil Saya Menyadur :
 2. Ada tugas untuk menyadur tiap pertemuan dan ditaruh di github
 3. Absensi dinyatakan hadir ketika mahasiswa melaksankan tugas menyadur
 4. Membuat kelompok yang terdiri dari 3 orang mahasiswa/i
-5. Mengupload Screnshot jika diperlukan dengan tujuan untuk menjaga file supaya tidak hilang
+5. Ketika klik link dan muncul not found jangan panik karena itu sedang di proses hingga beberapa menit
+6. Mengupload Screnshot jika diperlukan dengan tujuan untuk menjaga file supaya tidak hilang
+7. Mengubah ke html yaitu dengan cara merubah nama .txt menjadi index.html lalu di comit 
