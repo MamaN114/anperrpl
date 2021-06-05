@@ -6,4 +6,4 @@ NAMA      : Maman Abdurahman<br>
 KELOMPOK  : TI6A<br>
 MATKUL    : Analisis Dan Perancangan RPL<br>
 SEMESTER  : Genap<br>
-DOSEN     : YOHANES SETIAWAN JAPRIADI,M.KOM
+DOSEN     : Yohanes Setiawan Japriadi,M.KOM
